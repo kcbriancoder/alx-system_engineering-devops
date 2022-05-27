@@ -1,2 +1,2 @@
 #!/bin/bash
-chown 754 hello
+chgrp 754 hello
